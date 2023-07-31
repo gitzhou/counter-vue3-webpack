@@ -8,4 +8,4 @@ The project scaffold was created with the following command.
 npx @vue/cli create counter
 ```
 
-![](https://aaron67-public.oss-cn-beijing.aliyuncs.com/202307300054752.png)
+![](https://aaron67-public.oss-cn-beijing.aliyuncs.com/202307311114710.png)
